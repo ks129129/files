@@ -8,5 +8,10 @@
 		"BodyPart": "Chest",
 		"Name": "Bench press(dumbbell)",
 		"Image": "https://static.strengthlevel.com/images/illustrations/dumbbell-bench-press-1000x1000.jpg"
+	},
+	{
+		"BodyPart": "Chest",
+		"Name": "Another one",
+		"Image": "https://static.strengthlevel.com/images/illustrations/dumbbell-bench-press-1000x1000.jpg"
 	}
 ]
